@@ -46,5 +46,5 @@ We can include that in the following test html and simply open it on the browser
 </body>
 </html>
 ```
-![<img src=x onerror=alert(1)>](output.png "Title")
+![<img src=x onerror=alert(1)>](delete.png "Title")
 
